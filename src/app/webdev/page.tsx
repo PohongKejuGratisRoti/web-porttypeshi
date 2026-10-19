@@ -125,6 +125,7 @@ export default function WebDevPage() {
         alt=""
         width={48}
         height={48}
+        unoptimized
         className="h-12 w-12 object-contain"
       />
       <span className="text-sm text-zinc-300">{tech.name}</span>
