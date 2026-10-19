@@ -5,21 +5,21 @@ import Image from "next/image";
 
 export default function WebDevPage() {
   const stack = [
-  { name: "Python", icon: "/icons/Python.svg" },
-  { name: "FastAPI", icon: "/icons/FastAPI.svg" },
+  { name: "Python", icon: "/icons/python.svg" },
+  { name: "FastAPI", icon: "/icons/fastapi.svg" },
   { name: "Go", icon: "/icons/Go.svg" },
-  { name: "MongoDB", icon: "/icons/MongoDB.svg" },
-  { name: "JavaScript", icon: "/icons/JavaScript.svg" },
-  { name: "TypeScript", icon: "/icons/TypeScript.svg" },
-  { name: "Java", icon: "/icons/Java.svg" },
-  { name: "React", icon: "/icons/React.svg" },
-  { name: "TailWindCSS", icon: "/icons/TailwindCSS.svg" },
-  { name: "PHP", icon: "/icons/PHP.svg" },
-  { name: "Vue", icon: "/icons/Vuejs.svg" },
-  { name: "Express", icon: "/icons/Express.svg" },
+  { name: "MongoDB", icon: "/icons/mongodb.svg" },
+  { name: "JavaScript", icon: "/icons/javascript.svg" },
+  { name: "TypeScript", icon: "/icons/typescript.svg" },
+  { name: "Java", icon: "/icons/java.svg" },
+  { name: "React", icon: "/icons/react.svg" },
+  { name: "TailWindCSS", icon: "/icons/tailwindcss.svg" },
+  { name: "PHP", icon: "/icons/php.svg" },
+  { name: "Vue", icon: "/icons/vuejs.svg" },
+  { name: "Express", icon: "/icons/express.svg" },
   { name: "Elysia", icon: "/icons/elysia.svg" },
   { name: "Hono", icon: "/icons/hono.svg" },
-  { name: "Spring", icon: "/icons/Spring.svg" },
+  { name: "Spring", icon: "/icons/spring.svg" },
   { name: "Dotnet", icon: "/icons/dotnet.svg" },
 
   
