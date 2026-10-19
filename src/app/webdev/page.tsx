@@ -6,7 +6,7 @@ import Image from "next/image";
 export default function WebDevPage() {
   const stack = [
   { name: "Python", icon: "/icons/Python.svg" },
-  { name: "FastAPI", icon: "/icons/FastApi.svg" },
+  { name: "FastAPI", icon: "/icons/FastAPI.svg" },
   { name: "Go", icon: "/icons/Go.svg" },
   { name: "MongoDB", icon: "/icons/MongoDB.svg" },
   { name: "JavaScript", icon: "/icons/JavaScript.svg" },
